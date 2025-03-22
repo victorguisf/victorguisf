@@ -19,7 +19,6 @@
     <img height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/godot-original.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF31B3&height=120&section=footer"/>
